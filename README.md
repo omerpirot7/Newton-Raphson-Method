@@ -25,3 +25,7 @@ Educational GUI that visualizes the Newton–Raphson method step by step with bi
 ## Notes
 - Test the generated .exe on a machine without Python installed.
 - Add your report PDF and user guide in the `docs` folder when ready.
+
+git remote add origin YOUR_REPO_URL
+git branch -M main
+git push -u origin main
