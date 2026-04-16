@@ -5,75 +5,75 @@
 
 ## Introduction & Opening Hook
 
-Good morning, everyone. Have you ever wondered how computers find solutions to complex mathematical equations? Today, I'm excited to present an interactive learning application that transforms the way students understand one of the most powerful numerical methods in mathematics: the Newton-Raphson method.
+Good morning, everyone. Have you ever thought about how computers solve hard math problems? Today, I want to show you a learning app that helps students understand a very useful math method called Newton-Raphson. This method is used to find answers to math problems.
 
 ---
 
 ## Project Overview
 
-The Newton-Raphson Learning GUI is an educational application designed to help students visualize and understand the Newton-Raphson method—a fundamental algorithm used in mathematics, physics, and engineering to find the roots of equations. This project bridges the gap between theoretical knowledge and practical understanding by providing an interactive, step-by-step exploration of how this algorithm works.
+The Newton-Raphson app is a learning tool that helps students see and understand how the Newton-Raphson method works. This method is used in math, science, and engineering to find answers to equations. This app makes learning easier by showing you each step of how the math works.
 
-The application is packed with features including multiple pre-loaded functions, a real-time graphical visualization, bilingual support in English and Kurdish, and a unique step-by-step mode that allows learners to control their learning pace.
+The app has many useful tools. It has 8 ready-made math problems, you can see the answers on a graph, it works in English and Kurdish, and you can go step-by-step or run it all at once.
 
 ---
 
 ## Main Idea and Purpose
 
-The Newton-Raphson method can seem intimidating when presented only through equations and textbooks. Our mission is simple: make numerical methods accessible and engaging for students at all levels. Whether you're a high school student encountering this method for the first time or an engineer refreshing your knowledge, this application provides the perfect learning environment.
+The Newton-Raphson method can seem scary and hard when you only read it in books. Our goal is easy: make this math method fun and easy for all students. If you are new to this or just want to practice, this app is perfect for learning.
 
-The key purpose is to transform passive learning into active exploration. Instead of just reading about iterations and convergence, students can see them happen in real-time, manipulate parameters, and immediately observe the results.
+The big idea is to make learning fun and hands-on. Instead of just reading about math, you can see it happen right now, change the numbers, and see what happens immediately.
 
 ---
 
 ## How the Project Works
 
-Let me walk you through the workflow. When you launch the application, you're presented with an intuitive interface organized into three main areas:
+Let me show you how it works. When you open the app, you see three main parts:
 
-**First**, the function selection panel. We provide eight pre-configured mathematical functions including quadratic equations, trigonometric functions, exponential equations, and more. Users simply select their function and the system displays it on a graph.
+**First**, you pick a math problem. We have 8 different math problems ready to use. You just pick one and see it on a graph.
 
-**Second**, the parameter configuration section. Users input three critical parameters: the initial guess (x₀), which starts the algorithm; the tolerance level, which determines accuracy; and the maximum number of iterations allowed. These parameters are crucial because they directly influence how quickly the algorithm converges to a solution.
+**Second**, you set the numbers. You pick three things: where you think the answer is (your first guess), how exact you want the answer (tolerance), and how many times the math should check (max steps). These numbers help the app find the answer faster.
 
-**Third**, the execution engine. Users can click the "Run" button to execute the complete algorithm automatically, or use the "Step" button to proceed iteration by iteration. This step-by-step mode is particularly valuable for learning because it allows users to observe what happens at each stage of the computation.
+**Third**, you run it. You can click "Run" to do all the math at once and get the answer, or click "Step" to see each part one by one. The step-by-step way is great for learning because you see what happens at each part.
 
-The application then displays the results in multiple formats: a detailed data table showing each iteration with the x value, function value, and derivative value; and a dynamic graph that illustrates the convergence visually, showing how each successive approximation gets closer to the actual root.
+Then the app shows you the answer. You see a table with the numbers and a graph that shows you getting closer to the right answer.
 
 ---
 
 ## How Users Can Use the Application
 
-The user experience is straightforward and intuitive. Upon opening the application, users are greeted with a clean interface in their preferred language—they can toggle between English and Kurdish with a single click. 
+Using the app is easy and simple. When you open it, you see a nice, clean layout. You can change the language - just pick English or Kurdish in one click.
 
-Start by selecting a mathematical function from the dropdown menu. Next, enter your initial guess—this is where you think the root might be located. Adjust the tolerance to determine how precise you want the solution to be, and set a reasonable iteration limit to prevent excessive calculations.
+To start: First, pick a math problem from the list. Next, write your first guess - where you think the answer is. Then, set how exact you want it and how many steps to take.
 
-Then, you have two paths: run the complete algorithm at once to see the final result, or step through it manually to observe each iteration. For educational purposes, the step-by-step approach is highly recommended as it builds genuine understanding.
+Then pick how to run it. You can run it all at once to get the answer fast, or go step-by-step to see each part. For learning, step-by-step is much better because you really understand what is happening.
 
 ---
 
 ## Benefits and Educational Value
 
-This application offers multiple learning benefits. **First**, it makes abstract mathematical concepts concrete and visible. Students can see convergence happening in real-time rather than imagining it. **Second**, it enables experimentation. Users can try different functions, initial guesses, and parameters to understand how each affects the algorithm's behavior. **Third**, it provides immediate feedback. Users instantly see whether their choices lead to successful convergence or divergence.
+This app helps students learn in many ways. **First**, it makes hard math ideas easy to see and understand. You watch the math work, instead of just thinking about it. **Second**, you can try different things. You can use different problems, different starting points, and different numbers to see what happens. **Third**, you get answers fast. You right away see if your choices work or not.
 
-Additionally, the bilingual interface ensures accessibility for Kurdish-speaking students, breaking down language barriers in STEM education.
+Also, the app works in both English and Kurdish, so all students can use it in their own language.
 
 ---
 
 ## Design Philosophy
 
-Why did we choose this particular design approach? The answer lies in our core educational principle: **simplicity without sacrificing functionality**. 
+Why did we design it this way? Our main idea is: **keep it simple and easy to use**.
 
-The interface features a dark theme that reduces eye strain during extended study sessions. The color scheme uses high-contrast elements to ensure clarity. Controls are logically grouped by function—input parameters on the left, visualization in the center, results on the right. This spatial organization follows natural reading patterns and mental models.
+We use a dark screen so your eyes don't get tired when you study a long time. The colors are bright and easy to see. We put things where they make sense - buttons on the left, the graph in the middle, answers on the right. This way is natural and easy to follow.
 
-We deliberately kept the interface clean and focused. Every button, textbox, and graph serves a clear educational purpose. We avoided unnecessary decorations or confusing elements that might distract from learning. The aesthetic design is modern and professional, creating an environment where students take their learning seriously.
+Everything on the screen has a purpose for learning. We didn't add pretty things that don't help you learn. The design looks modern and nice, so students feel like learning is important here.
 
 ---
 
 ## Conclusion
 
-The Newton-Raphson Learning GUI represents our commitment to making mathematics education more accessible, engaging, and effective. By combining rigorous mathematical accuracy with intuitive design and interactive features, we've created a tool that transforms how students understand and apply numerical methods.
+This app shows we care about making math easier and more fun for everyone. We built it with real math that is right, and easy controls that make sense. It helps students learn and use math methods better.
 
-Whether you're teaching a calculus course, learning independently, or exploring computational mathematics, this application provides the clarity and interactivity you need. It's completely standalone—simply download and run the executable file, no additional software required.
+You can use it for learning calculus, learning on your own, or trying math on a computer. It is easy to use - just download it and run it. You don't need any other programs.
 
-Thank you for your attention. I'm confident this tool will enhance mathematical learning and make the Newton-Raphson method not just understandable, but genuinely interesting. Let me know if you have any questions!
+Thank you for listening. I believe this tool will help students learn math better and understand the Newton-Raphson method, not just in a boring school way, but in a real, fun way. Do you have any questions?
 
 ---
 
