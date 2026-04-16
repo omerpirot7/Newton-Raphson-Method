@@ -4,9 +4,9 @@ import csv
 
 from PySide6 import QtCore, QtWidgets
 
-from .i18n import t
-from .plot import PlotCanvas
-from .solver import newton_raphson
+from app.i18n import t
+from app.plot import PlotCanvas
+from app.solver import newton_raphson
 
 
 FunctionDef = Tuple[str, Callable[[float], float], Callable[[float], float], Tuple[float, float]]

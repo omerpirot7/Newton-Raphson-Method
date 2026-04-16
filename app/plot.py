@@ -4,7 +4,7 @@ import numpy as np
 from matplotlib.backends.backend_qtagg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.figure import Figure
 
-from .solver import Iteration
+from app.solver import Iteration
 
 
 class PlotCanvas(FigureCanvas):
